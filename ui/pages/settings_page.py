@@ -582,40 +582,6 @@ class SettingsPage(QWidget):
         QApplication.quit()
 
 
-        results = []
-
-        # 1. Remove from Windows startup registry
-        try:
-            import winreg
-            key = winreg.OpenKey(
-            from config.settings import get_setting
-            db_path = os.path.join(app_dir, "optimizer_settings.db")
-            if os.path.exists(db_path):
-                import sqlite3
-                conn = sqlite3.connect(db_path)
-                conn.execute("DELETE FROM settings")
-                conn.commit()
-                conn.close()
-                results.append("✅ Cleared all saved settings")
-        except Exception as e:
-            results.append(f"⚠️ Could not clear settings: {e}")
-
-        # 3. Show folder delete instructions
-        results_text = "\n".join(results)
-        QMessageBox.information(
-            self, "✅ Uninstall Steps Completed",
-            f"Completed:\n{results_text}\n\n"
-            f"📁 To fully remove the app, delete this folder:\n"
-            f"{app_dir}\n\n"
-            "You can delete it in File Explorer or run:\n"
-            f"  rmdir /s /q \"{app_dir}\"\n\n"
-            "The app will close after clicking OK.",
-        )
-        # Exit app
-        from PyQt6.QtWidgets import QApplication
-        QApplication.quit()
-
-
     # ── HELPERS ───────────────────────────────────────────────────
 
     def _lbl(self, text, color="#8BA3C7", size=12, bold=False):
