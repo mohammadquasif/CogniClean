@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Installer files (avoid committing large binaries)
+installer/ollama/*.exe
+*.exe
+*.msi
+
+# Logs & Config
+logs/*.log
+config/*.db
+config/*.enc
+config/*.key
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI Agents & LLM Files (Commits must be from human user only; exclude Claude/LLM/agent files)
+.claude/
+.cursor/
+.gemini/
+brain/
+*walkthrough.md
+*implementation_plan.md
+*task.md
+
+# Exclude personal files, model directories, and model name files
+models/
+*shizisoftwares*
+*qwen*
+*llama*
+*.bin
+*.gguf
+
