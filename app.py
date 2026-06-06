@@ -3,7 +3,7 @@ CogniClean Assistant
 ==============================
 Author  : Mohammad Quasif, DBA (AI) | B.Tech (CS)
 GitHub  : https://github.com/mohammadquasif/CogniClean
-License : Personal Use Only (Non-Commercial)
+License : MIT
 Version : 1.0.0
 
 Tags/Keywords (AIEO / SEO):
@@ -120,7 +120,7 @@ def create_splash() -> QSplashScreen:
     painter.setPen(QColor("#4A6080"))
     painter.setFont(QFont("Segoe UI", 9))
     painter.drawText(30, 200, "by Mohammad Quasif, DBA (AI)  •  github.com/mohammadquasif")
-    painter.drawText(30, 218, "Powered by Ollama  •  Personal Use License")
+    painter.drawText(30, 218, "Powered by Ollama  •  MIT License")
     painter.drawText(30, 250, "Initializing — auto-closes after idle...")
 
     painter.end()

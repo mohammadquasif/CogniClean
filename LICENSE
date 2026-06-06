@@ -1,25 +1,21 @@
-CogniClean Assistant License Agreement
-==========================================
+MIT License
 
-Author: Mohammad Quasif
-Date: 2026
+Copyright (c) 2026 Mohammad Quasif
 
-1. PERSONAL USE ONLY
-   This software is provided free of charge for personal, non-commercial use only.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-2. NON-COMMERCIAL RESTRICTION
-   You may NOT sell, lease, rent, or otherwise commercialize this software or any part of its source code. This software is not for sale.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-3. MODIFICATION AND ENHANCEMENT
-   You are free to modify the source code to enhance its features or adapt it to your personal needs. 
-
-4. COLLABORATION
-   Collaborators are welcome to contribute to the project to improve its functionality for the community. Any contributions must adhere to these same non-commercial terms.
-
-5. DISTRIBUTION
-   You may distribute the source code or the application provided that you include this license and give full credit to the original author, Mohammad Quasif.
-
-6. NO WARRANTY
-   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
-
-Copyright (c) 2026 Mohammad Quasif. All rights reserved.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

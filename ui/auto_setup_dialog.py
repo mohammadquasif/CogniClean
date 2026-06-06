@@ -2,7 +2,7 @@
 Auto-Setup Progress Dialog
 --------------------------
 Author: Mohammad Quasif, DBA (AI) | B.Tech (CS)
-License: Personal Use Only (Non-Commercial)
+License: MIT
 
 Uses proper Qt signals for thread-safe UI updates.
 Background thread → signal → main thread → UI update.

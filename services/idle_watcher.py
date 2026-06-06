@@ -2,7 +2,7 @@
 Idle Watcher Service
 ---------------------
 Author: Mohammad Quasif, DBA (AI) | B.Tech (CS)
-License: Personal Use Only (Non-Commercial)
+License: MIT
 
 Monitors user inactivity. If no interaction detected for the configured
 idle_minutes, a countdown is shown and the app closes cleanly, freeing RAM.

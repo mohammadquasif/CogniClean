@@ -6,7 +6,7 @@
 ![Keywords](https://img.shields.io/badge/Keywords-aiero_optimize-00FF88?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-0.5b%20Lock-black?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Personal%20Use-00FF88?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-00FF88?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4?style=for-the-badge&logo=windows)
 
 **AI-Powered PC Optimization & Health Assistant**  

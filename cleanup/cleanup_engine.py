@@ -2,7 +2,7 @@
 Enhanced Safe Cleanup Engine
 ------------------------------
 Author: Mohammad Quasif, DBA (AI) | B.Tech (CS)
-License: Personal Use Only (Non-Commercial)
+License: MIT
 
 NEVER deletes: passwords, bookmarks, browser sessions, personal files, downloads.
 All new tasks are safe, reversible-effect (no data loss), and improve speed.

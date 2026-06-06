@@ -1,7 +1,7 @@
 """
 Command Input Widget — Chips + Text + Voice unified interface
 Author: Mohammad Quasif, DBA (AI) | B.Tech (CS)
-License: Personal Use Only (Non-Commercial)
+License: MIT
 
 Replaces raw buttons with a chat-style command area.
 User can: click chips | type commands | speak voice commands.
